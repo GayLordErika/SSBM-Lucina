@@ -1,0 +1,4 @@
+If you are using Windows, please extract the 'Akaneia Builder' folder in its entirety.
+The .bat patcher is set up to read the patch.xdelta from the directory above it. Extracting
+the Windows folder on its own only extracts the patcher itself and not the patch.xdelta 
+file it requires.
